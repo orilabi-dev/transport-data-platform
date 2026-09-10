@@ -1,7 +1,7 @@
 [project]
 name = "transport-data-platform"
 version = "0.1.0"
-description = "Add your description here"
+description = "TDP is a production-style, locally deployable data platform ingesting static, streaming and CDC data, with automated transformation, orchestration, testing and deployment"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
